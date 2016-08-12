@@ -70,7 +70,7 @@ void display()
 int count()
 {
 	if(head == NULL)
-		return 0;
+		return 0; 
 	else{
 		cur = head;
 		while(cur != NULL){
